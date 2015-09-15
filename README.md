@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# gulp-cli [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Support us][gittip-image]][gittip-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url]
+# gulp-cli [![Build Status](https://travis-ci.org/Tiger66639/gulp-cli.svg)](https://travis-ci.org/Tiger66639/gulp-cli)
 > The streaming build system
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wearefractal/gulp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
